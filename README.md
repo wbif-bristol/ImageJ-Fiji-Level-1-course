@@ -10,3 +10,5 @@ The workshop begins with a presentation introducing fundamental concepts of imag
 The examples used concentrate on fluorescence microscopy but the techniques used are widely applicable to other types of images.
 
 Training is provided by staff from the Wolfson Bioimaging Facility during the hands on session which covers importing and exploring images, pre-processing data, object segmentation and finally, an introduction to macro recording and batch analysis.
+
+<img src="./Resources/wbif-colour-logo.png" width="200px" align="right">
