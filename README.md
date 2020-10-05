@@ -3,7 +3,7 @@ ImageJ/Fiji Level 1 course
 
 Materials for the "ImageJ/Fiji Level 1: Basics of image processing and analysis" course taught at the Wolfson Bioimaging Facility, University of Bristol.
 
-[Download course materials (.zip) here](https://github.com/wbif-bristol/ImageJ-Fiji-Level-1-course/archive/v1.0.0.zip)
+[Download course materials (.zip) here](https://github.com/wbif-bristol/ImageJ-Fiji-Level-1-course/releases/download/v1.0.0/ImageJ-Fiji-Level-1-course_materials_1.0.0.zip)
 
 ----------
 NEW! Watch on YouTube:
