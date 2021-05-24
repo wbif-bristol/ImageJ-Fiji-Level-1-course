@@ -7,8 +7,8 @@ Materials for the "ImageJ/Fiji Level 1: Basics of image processing and analysis"
 
 ----------
 NEW! Watch on YouTube:
-- [Part 1: Image acquisition and fundamentals of image processing (32:08)](https://youtu.be/g9vpI_LmBOk)
-- [Part 2: Basics of image processing and analysis in ImageJ/Fiji (1:27:43)](https://www.youtube.com/watch?v=Pu9Dkjg39fc)
+- [Part 1: Image acquisition and fundamentals of image processing (~32 mins)](https://youtu.be/g9vpI_LmBOk)
+- [Part 2: Basics of image processing and analysis in ImageJ/Fiji (~87 mins)](https://www.youtube.com/watch?v=Pu9Dkjg39fc)
 ----------
 
 This workshop is suitable for anyone acquiring microscopy data as part of their research. No prior knowledge is necessary or assumed. The practical components are designed to enable attendees to work at their own pace.
